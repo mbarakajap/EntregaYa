@@ -2,7 +2,7 @@
 
 Subsistema de gestión de entregas del sistema distribuido del laboratorio de Sistemas Distribuidos (FPUNA). Maneja pedidos, pagos, clientes, repartidores y seguimiento de entregas.
 
-Forma parte de un sistema compuesto por dos organizaciones autónomas que se comunican por paso de mensajes sobre sockets TCP/UDP. La contraparte de este subsistema es **[SuperMax](https://github.com/\<owner\>/SuperMax)**.
+Forma parte de un sistema compuesto por dos organizaciones autónomas que se comunican por paso de mensajes sobre sockets TCP/UDP. La contraparte de este subsistema es **[SuperMax](https://github.com/riverondev/SuperMax)**.
 
 > Estado actual: bootstrap. El proyecto tiene la configuración base de Maven y la estructura de packages. La clase `fpuna.entregaya.Main` referenciada en `pom.xml` aún no está implementada (es un placeholder).
 
