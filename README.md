@@ -27,7 +27,7 @@ Forma parte de un sistema compuesto por dos organizaciones autónomas que se com
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/<owner>/EntregaYa.git
+git clone https://github.com/mbarakajap/EntregaYa.git
 cd EntregaYa
 ```
 
